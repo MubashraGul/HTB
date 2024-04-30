@@ -1,0 +1,11 @@
+To spawn machine you need to connect with the VPN.
+command to connect with OVPN   sudo openvpn FILENAME
+
+Task 1:To find this answer Just copy the VM word and google it .You will get the answer.   (Virtual Machine)
+Task 2: To find this answer explore the linux top boder.    (Terminal)
+TASK 3:Find the answer in the command you write to connect with vpn. (openvpn)
+Task 4:Remember the tool you used to check the network connection.  (Ping)      Ping (Packet Internet Groper) is invoked using command as “ping”, which uses ICMP (Internet Control Message Protocol) to reports errors and provides information related to IP packet processing. Ping works by sending an ICMP echo request message to the provided IP address. If the computer with the destination IP address is reachable, it responds with an ICMP echo reply message. 
+Task 5: Write the name of the most famous network tool . (Nmap)
+TASK 6:Saan the target with nmap. nmap [IP ADRESS]   (Telnet)
+TASK 7: To solve this type of question ,use genaric words such as admin,root,administrator. (root)
+Task 8 :From the previous scan you got the information , Meow have 23/tcp open port.you can connect with machine without any password by root user. So try using  telnet [IP ADRESS] to connect to the machine root as the login .Now you are in meow machine.Try to search list the folder and file to find flag . Use cat command to read file.
